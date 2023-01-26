@@ -1,0 +1,99 @@
+html {
+   background-color: aqua;
+   background-image: url(https://thumbs.gfycat.com/WanGivingChupacabra-small.gif);
+   background-repeat: repeat;
+   background-position: bottom center;
+   background-size:contain;
+   object-fit: cover; 
+}
+.favorite-things {
+  text-align:center;
+  background-repeat: no-repeat;
+  background-position:right;
+  background size:contain;
+  object-fit:cover;
+}
+
+h1 {
+  background-image: url(https://media3.giphy.com/media/aiN7GUGvGH648/giphy.gif?cid=790b76117a9695bfdd92043276239c3ed70b0fc17d18be84&rid=giphy.gif&ct=g);
+  background-repeat: no-repeat;
+  background-position: left;
+  background size:contain;
+  object-fit:cover; 
+  background-color:green;
+   color:blueviolet; 
+   padding: 50px 30px 50px 80px;
+   margin: 100px 150px 100px 125px;
+  border: 10px solid rgb(59, 183, 9);
+}
+
+h2 {
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FF0QWePzwQRewM%2Fgiphy.gif&f=1&nofb=1&ipt=88d860e36fa39a0a0df92b40de132a57fc9c5585ac483ed18a3b289860e65ce4&ipo=images);
+   color:whitesmoke;
+   background-color:grey;
+   padding: 50px 30px 50px 80px;
+   margin: 100px 150px 100px 125px;
+  border: 10px solid rgb(200, 222, 10);
+  font:bold;
+  font-size: xx-large;
+}
+
+ul {
+   list-style-type: check;
+   font-size: xx-large;
+   font-weight: 400;
+   padding: 25px 15px 25px 40px;
+   margin: 50px 75px 50px 75px;
+}
+
+li {
+   color: black;
+   background-color:white;
+   font:bold;
+   border: 5px solid rgb(18, 64, 180);
+}
+
+.list-below {
+   background-color:chocolate;
+   padding: 25px 15px 25px 40px;
+   margin: 50px 75px 50px 75px;
+   color:whitesmoke;
+   text-align: center;
+}
+
+#movie1 {
+  float:left;
+  border: 5px solid rgb(230, 166, 5);
+  
+}
+
+#movie2 {
+  float:right;
+  border: 5px solid rgb(230, 166, 5);
+}
+
+.conclusion {
+   color:white;
+   padding: 50px 30px 50px 80px;
+   margin: 100px 150px 100px 125px;
+  border: 10px solid rgb(230, 166, 5);
+  text-align: center;
+  font:bold;
+  font-size:xx-large;
+  
+}
+
+#thumbs-up {
+  
+  margin:100px 0px 0px 485px;
+  
+  
+}
+
+img {
+ border:10px solid red;
+ border: top 300px;
+ position: relative /* position to move your */ 
+ top: -2px; /* Moves the image up by 2px */ 
+
+}
